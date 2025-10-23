@@ -24,4 +24,4 @@ Let harvest come.
 Let the craft become mine.
 
 Unseal the code `index.html`
-
+https://reginasadrieva.github.io/JavaScript-TO-DO-Notes-List/
